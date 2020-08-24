@@ -1,0 +1,41 @@
+html {
+    font-size: 15px;
+}
+
+.title {
+    margin-bottom: 1.5rem;
+}
+
+nav {
+    margin-bottom: 2rem;
+}
+
+h5 {
+    margin-top: 1.8rem;
+}
+
+.wrapper__send-btn {
+    text-align: center;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .wrapper__send-btn {
+        text-align: right;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+}
